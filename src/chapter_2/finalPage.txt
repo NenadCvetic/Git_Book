@@ -1,0 +1,7 @@
+
+So far we learned git flor for 
+
+commit -> push
+
+remote -> local
+pull.update
